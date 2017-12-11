@@ -31,3 +31,8 @@ Application flow:
   Integrated with CIRCLE CI
   ==========================
   testing the Circle CI
+  
+  
+  
+  This project is build here in Circle CI
+  [![CircleCI](https://circleci.com/gh/harishh486/Spring5Recipe-WebApp.svg?style=svg)](https://circleci.com/gh/harishh486/Spring5Recipe-WebApp)
